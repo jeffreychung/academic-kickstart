@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Jeff Chung
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,43 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: High Volume Email Specialist
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Bulk Reach
+  url: "https://bulkreach.com"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I specialize in high volume email performance.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Email Deliverability and Marketing
+- Niche Website Development
+- Affiliate Marketing
+- Search Engine Optimization
+- Conversion Rate Optimization
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: BA Business, Information Systems
+    institution: Washington State University
+    year: 2003
+  - course: SEO Master Certification
+    institution: Market Motive
+    year: 2014
+  - course: Content Marketing Certification
+    institution: Content Marketing Institute
+    year: 2015
+  - course: Affiliate Marketing Course
+    institution: Clickbank University
+    year: 2015
+  - course: Adam Short NPFC Course
+    institution: Niche Profit Full Control
+    year: 2015
+  - course: Five Figure Niche Sites
+    institution: Clickbank University
+    year: 2015  
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
