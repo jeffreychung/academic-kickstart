@@ -29,24 +29,19 @@ interests:
 
 education:
   courses:
-  - course: BA Business, Information Systems
+  - course: BA Business, Information Systems Major
     institution: Washington State University
     year: 2003
+  - course: Marketing Certification with Concentration in Digital Marketing
+    institution: UCLA Extension
+    year: 2013
   - course: SEO Master Certification
     institution: Market Motive
     year: 2014
   - course: Content Marketing Certification
     institution: Content Marketing Institute
     year: 2015
-  - course: Affiliate Marketing Course
-    institution: Clickbank University
-    year: 2015
-  - course: Adam Short NPFC Course
-    institution: Niche Profit Full Control
-    year: 2015
-  - course: Five Figure Niche Sites
-    institution: Clickbank University
-    year: 2015  
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
