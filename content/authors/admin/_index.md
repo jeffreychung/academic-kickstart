@@ -27,7 +27,7 @@ interests:
 - Search Engine Optimization
 - Conversion Rate Optimization
 
-education:
+education and training:
   courses:
   - course: BA Business, Information Systems Major
     institution: Washington State University
